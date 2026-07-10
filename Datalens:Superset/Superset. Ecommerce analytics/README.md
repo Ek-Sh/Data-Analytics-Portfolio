@@ -3,6 +3,8 @@
 
 ***СТАТУС:*** **Завершён**
 
+## ССЫЛКА НА ДАШБОРД
+https://superset.bi-analysts.education-services.ru/superset/dashboard/p/XZ8nv6YX83x/
 
 ## Цель проекта:
 
