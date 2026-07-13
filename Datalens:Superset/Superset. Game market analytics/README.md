@@ -3,10 +3,6 @@
 
 ***СТАТУС:*** **Завершён**
 
-## ССЫЛКА НА ДАШБОРД 
-
-https://superset.bi-analysts.education-services.ru/superset/dashboard/p/RdKvWlaO8yN/
-
 ## Цель проекта:
 
 Разработать интерактивный BI-дашборд в Apache Superset для анализа игрового рынка и поведения игроков.
