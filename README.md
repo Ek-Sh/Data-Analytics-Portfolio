@@ -1,4 +1,4 @@
-# Data_Analytics-Portfolio
+# Data_Analyst-Portfolio
 
 ---
 
